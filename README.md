@@ -1,6 +1,11 @@
 # PokéDex
 
  A simple Pokémon catalogue, built with [React](https://reactjs.org/), [Material-UI](https://material-ui.com/) and [PokéAPI](https://pokeapi.co/).
+ The "public" folder contains the pngs for the pokemon icons used in the code from duiker101's github, link below
+ 
+ The "src" folder contains the various codes utilizing Matieral-UI for a smoother application experience, with help from Scroll to Top
+ It also contains the App.js file, which launches the application, and includes Pokemon from the Kanto region to the recent Galar region which uses
+ the PokeAPI website: (https://pokeapi.co/api/v2). Feel free to check it out!
 
 ## Features
 - View basic details of each Pokémon
